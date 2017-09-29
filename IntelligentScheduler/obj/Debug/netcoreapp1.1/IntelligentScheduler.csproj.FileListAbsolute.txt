@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\bin\Debug\netcoreapp1.1\IntelligentScheduler.deps.json
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\bin\Debug\netcoreapp1.1\IntelligentScheduler.runtimeconfig.json
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\bin\Debug\netcoreapp1.1\IntelligentScheduler.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\bin\Debug\netcoreapp1.1\IntelligentScheduler.dll
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\bin\Debug\netcoreapp1.1\IntelligentScheduler.pdb
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\obj\Debug\netcoreapp1.1\IntelligentScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\obj\Debug\netcoreapp1.1\IntelligentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\obj\Debug\netcoreapp1.1\IntelligentScheduler.AssemblyInfo.cs
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\obj\Debug\netcoreapp1.1\IntelligentScheduler.dll
+C:\Users\Jason\source\repos\IntelligentScheduler\IntelligentScheduler\obj\Debug\netcoreapp1.1\IntelligentScheduler.pdb
